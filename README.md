@@ -1,5 +1,6 @@
 # 📊 BlinkIT Dashboard: Sales Insights for Seamless Shopping  
-**Photo name:** dashboard.jpg
+
+![Dashboard Image](dashboard.PNG)
 
 ---
 
